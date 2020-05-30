@@ -1,4 +1,4 @@
-# TAMASimulatorInCSharp
+# TDMA Simulator built in C#
 Implemented the random TDMA simulator in C#.
 
 ## Random TDMA
